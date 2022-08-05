@@ -12,4 +12,4 @@
 <h2>💻 Projeto</h2>
 <p>Nesse projeto pessoal, pude consolidar meus conhecimentos de maneira prática utilizando HTML5 e CSS3 com o conceito Flexbox. Nele também pude estruturar todo o site usando HTML semântico, não deixando de lado o SEO e minha paixão pela tecnologia!</p>
 
-<p>Feito por <b>Leonardo Siqueira</b>, entre em contato <a href="https://www.linkedin.com/in/leonardo-siqueira-b63485228/">aqui!</a>
+<p>Feito por <b>Leonardo Siqueira</b>, entre em contato comigo <a href="https://www.linkedin.com/in/leo-siqueira/">aqui! 😉</a>
